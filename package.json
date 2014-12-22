@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A NodeJS webserver to run inside a docker container",
   "scripts": {
-    "start": "node ./iram"
+    "start": "nodejs ./iram"
   },
   "author": "sean@seanmcgary.com",
   "license": "MIT",
