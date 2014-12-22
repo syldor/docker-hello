@@ -2,7 +2,9 @@
   "name": "my-cool-webserver",
   "version": "0.0.1",
   "description": "A NodeJS webserver to run inside a docker container",
-  "main": "index.js",
+  "scripts": {
+    "start": "node ./iram"
+  },
   "author": "sean@seanmcgary.com",
   "license": "MIT",
   "dependencies": {
